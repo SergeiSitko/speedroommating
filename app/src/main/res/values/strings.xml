@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SpeedRoommating</string>
+    <string name="retry">Retry</string>
+    <string name="nothing_to_show">Nothing to show</string>
+    <string name="no_upcoming_events">No upcoming events are scheduled. If is incorrect, get in touch with our CORE team.</string>
+    <string name="something_gone_wrong">Something\'s gone wrong</string>
+    <string name="we_could_not_load_events">We couldn\'t load the upcoming events. Check your cellular or wifi connection and try again.</string>
+    <string name="no_connection">No connection</string>
+    <string name="you_appear_offline">You appear to be offline. Check your mobile or wifi connection and try again.</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="archived">archived</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="orient">#005480</color>
+    <color name="astronaut_blue">#003d5d</color>
+    <!--text colors-->
+    <color name="silver">#BDBDBD</color>
+    <color name="bright_turquoise">#14C7F5</color>
+    <!--card background-->
+    <color name="alabster">#f7f7f7</color>
+    <color name="min_shaft">#222222</color>
+    <color name="min_shaft_light">#333333</color>
+
+    <!--card line-->
+    <color name="mercury">#e3e3e3</color>
+
+    <!--button-->
+    <color name="pizzas">#ff9600</color>
+
+    <!--night back-->
+    <color name="cod_gray">#AA111111</color>
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+</resources>

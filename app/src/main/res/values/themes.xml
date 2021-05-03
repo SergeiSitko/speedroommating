@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SpeedRoommating" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/orient</item>
+        <item name="colorPrimaryVariant">@color/astronaut_blue</item>
+        <item name="colorOnPrimary">@color/silver</item>
+
+        <item name="background">@color/white</item>
+
+        <item name="colorSurface">@color/alabster</item>
+        <item name="colorOnSurface">@color/mercury</item>
+
+        <item name="colorSecondary">@color/white</item>
+        <item name="colorOnSecondary">#80ffffff</item>
+
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+
+
+</resources>

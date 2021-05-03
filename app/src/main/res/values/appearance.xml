@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget.Text.Body" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textSize">@dimen/font_medium</item>
+        <item name="android:textColor">?attr/colorOnPrimary</item>
+    </style>
+
+    <style name="Widget.Text.Body.Bold" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textSize">@dimen/font_medium</item>
+        <item name="android:textColor">?attr/colorOnPrimary</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Widget.Text.Large.Bold" parent="TextAppearance.AppCompat.Large">
+        <item name="android:textSize">@dimen/font_big</item>
+        <item name="android:textColor">?attr/colorOnPrimary</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
